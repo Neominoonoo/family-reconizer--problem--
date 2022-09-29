@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(#4c1287 1%, #9a58dc 10%, #dbc7ef 89%);
+    ;
+    color: white;
+}
+
+button {
+    background-color: #4c1287;
+    width: 10%;
+    color: white;
+}
+
+#p-div {
+    background-color: #dbc7ef;
+    border-radius: 20px;
+    width: 50%;
+}
+
+p {
+    color: #4c1287;
+}
